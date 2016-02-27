@@ -1,0 +1,28 @@
+name: nachtmeister
+favicon: null
+layout_spectrum: 0.5673900782130659
+typography_spectrum: 0.9268299243412912
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.919004293391481
+  lightness: 0.9825795900542289
+  saturation: 0.8393948685843498
+  rhythmicContrast: 0.37408635462634265
+purpose: []
