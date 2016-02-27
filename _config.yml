@@ -1,7 +1,7 @@
 name: nachtmeister
 favicon: null
-layout_spectrum: 0.5673900782130659
-typography_spectrum: 0.9268299243412912
+layout_spectrum: 0.98666
+typography_spectrum: 0.15046
 cta:
   domain: null
   bucket: null
